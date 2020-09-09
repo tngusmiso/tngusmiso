@@ -1,5 +1,7 @@
 ## 임수현
 #### Mobile App Developer 
+> iOS, Swift
+
 **1998.02.17**  
 :star2: **email**&nbsp;&nbsp;&nbsp;k1miso012@gmail.com  
 :star2: **github**&nbsp;&nbsp;http://github.com/tngusmiso  
