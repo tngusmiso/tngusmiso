@@ -11,9 +11,9 @@
 
 <br/>
 
-**Solved.ac**
+<!-- **Solved.ac**
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k1miso)](https://solved.ac/k1miso)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k1miso)](https://solved.ac/k1miso) -->
 
 [Show Details...](https://github.com/tngusmiso/Portfolio-Dev.Suhyun)
